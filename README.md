@@ -1,1 +1,1 @@
-# .NET-Core.-Simply-CRUD-Web-App
+# .NET-Core. Simply CRUD Web App
